@@ -1,0 +1,48 @@
+package Day_11.Class_task;
+
+public class Inheritance {
+
+    public static void main(String [] args){
+        Car c1 = new Car();
+        //System.out.print(c1.brand);
+        //c1.start();
+        TataCar t1 = new TataCar();
+        t1.start();
+        //Nexon n1 = new Nexon();
+        //n1.start();
+    }
+}
+class Car{
+    String brand;
+    String model;
+    public void start(){
+
+        System.out.println("car started");
+    }
+    /*class Ev{
+        public void start(){
+            System.out.println("Ev started");
+        }
+    }*/
+}
+class TataCar extends Car {
+    public void Start() {
+        System.out.println("TataCar started...");
+    }
+
+    /*class Nexon extends TataCar {
+
+    }*/
+
+    class Nexon {
+        public void start() {
+            System.out.println("car started");
+        }
+    }
+
+    class Ev {
+        public void start() {
+            System.out.println("Ev started");
+        }
+    }
+}
