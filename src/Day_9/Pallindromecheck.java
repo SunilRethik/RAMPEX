@@ -1,4 +1,4 @@
-package Day_9.Class_task;
+package Day_9;
 
 
 import java.util.Arrays;

@@ -1,4 +1,4 @@
-package Day_9.Class_task;
+package Day_9;
 
 class methods {
     public static void main(String[] args) {
