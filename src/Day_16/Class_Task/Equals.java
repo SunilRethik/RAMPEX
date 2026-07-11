@@ -1,4 +1,4 @@
-package Day_16;
+package Day_16.Class_Task;
 
 public class Equals {
     public static void main(String [] args){

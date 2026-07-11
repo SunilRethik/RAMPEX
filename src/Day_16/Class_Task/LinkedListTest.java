@@ -1,4 +1,4 @@
-package Day_16;
+package Day_16.Class_Task;
 
 import java.util.LinkedList;
 
