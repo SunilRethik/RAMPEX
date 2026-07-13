@@ -7,11 +7,11 @@ public class HashMapMarksGrading2 {
         //Create a HashMap add Name, Mark values
 //        HashMap<String, Integer> hm = new HashMap<String, Integer>();
         TreeMap<String, Integer> hm = new TreeMap<String, Integer>();
-        hm.put("Shree", 97);
-        hm.put("Saravanan", 96);
-        hm.put("Deekchith", 94);
-        hm.put("Nilan", 92);
-        hm.put("Deek", 100);
+        hm.put("Sunil", 97);
+        hm.put("Rethik", 96);
+        hm.put("Satheesh", 94);
+        hm.put("Vetrii", 92);
+        hm.put("Rja", 100);
         System.out.println(hm.higherKey("Shree"));
 //        System.out.println(hm.entrySet());
 //        int min = 100;
