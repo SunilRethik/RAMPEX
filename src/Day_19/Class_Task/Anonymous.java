@@ -9,9 +9,9 @@ public class Anonymous {
         interface human{
             public void shout();
         }
-        String name = "Sunil";
+        String name = "sree";
         System.out.println(name.toUpperCase());
-        System.out.println("Sunil".toUpperCase());
+        System.out.println("sree".toUpperCase());
         human h = new human() {
             public void shout() {
                 System.out.println("Someone is Shouting");
@@ -25,7 +25,7 @@ class human{
     }
 }
 class Person{
-    String name = "Rethik";
+    String name = "Shree";
     int age;
     public void shout(){
         System.out.println(name + " is Shouting");
