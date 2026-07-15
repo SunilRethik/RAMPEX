@@ -1,6 +1,6 @@
 package Day_5;
 
-public class swap_two_numbers {
+ class swap_two_numbers {
     public static void main(String[] args) {
         int a = 5;
         int b = 10;

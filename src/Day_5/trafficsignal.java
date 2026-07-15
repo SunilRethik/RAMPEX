@@ -2,7 +2,7 @@ package Day_5;
 
 import java.util.Scanner;
 
-public class traffic_signal_using_class {
+ class traffic_signal_using_class {
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);

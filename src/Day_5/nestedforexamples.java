@@ -1,6 +1,6 @@
 package Day_5;
 
-public class nested_for_example {
+ class nested_for_example {
     public static void main(String[] args){
         for(int i=0;i<=5;i++) {//how many times
 

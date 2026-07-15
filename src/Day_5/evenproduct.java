@@ -2,7 +2,7 @@ package Day_5;
 
 import java.util.Scanner;
 
-public class even_product {
+ class even_product {
     public static void main(String[] args){
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter the number :");
