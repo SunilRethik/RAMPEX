@@ -1,4 +1,5 @@
-package rampexday1;
+package Day_1 ;
+
 
 class SimpleInterest {
     public static void main(String[] args) {

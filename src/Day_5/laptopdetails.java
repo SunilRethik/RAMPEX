@@ -1,5 +1,4 @@
-package Day_10.Home_task;
-
+package Day_5 ;
 class Laptop_details {
     public static void main(String[] args) {
         Laptop l1 = new Laptop();

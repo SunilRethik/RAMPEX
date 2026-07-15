@@ -1,4 +1,4 @@
-package rampexday2;
+package Day_2 ;
 
 
 import java.util.Scanner;

@@ -1,4 +1,4 @@
-package rampexday1;
+package Day_1 ;
 
 class Letter {
     public static void main(String[] args) {

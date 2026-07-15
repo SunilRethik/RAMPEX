@@ -1,4 +1,4 @@
-package rampexday3.Swiggy;
+package Day_3 ;
 
 
 import java.util.Scanner;
