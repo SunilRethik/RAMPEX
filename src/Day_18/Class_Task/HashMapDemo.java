@@ -3,8 +3,8 @@ import java.util.HashMap;
 public class HashMapDemo {
     public static void main(String [] args){
         HashMap<Integer, String> hm = new HashMap<Integer, String>();
-        hm.put(1, "Shree");
-        hm.put(2, "Saravanan");
+        hm.put(1, "Sunil");
+        hm.put(2, "Rethik");
         hm.put(3, "Deekchith");
         hm.put(4, "Nilan");
         hm.put(null, "Junior");

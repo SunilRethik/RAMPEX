@@ -13,8 +13,8 @@ public class FunctionalInterface {
         Supplier<Integer> s = () -> 6;
         Function<String, Integer> f = (String str) -> Integer.valueOf(str.toUpperCase());
         Function<String, Integer> m = (String str) -> Integer.valueOf(str.toUpperCase());
-        System.out.println(f.apply("Shree"));
-        System.out.println(m.apply("Saravanan"));
+        System.out.println(f.apply("Sunil"));
+        System.out.println(m.apply("Rethik"));
     }
     Function<String, Integer> len = s -> s.length();
 //    public interface Supplier(){
