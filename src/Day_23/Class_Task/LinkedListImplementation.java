@@ -28,4 +28,7 @@ class LinkedList{
         Node newnode = new Node(val);
         head = newnode;
     }
+    public void insertAtend(int val){
+
+    }
 }
