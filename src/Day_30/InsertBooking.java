@@ -6,39 +6,16 @@ public class InsertBooking {
 
     public static void main(String[] args) throws Exception {
 
-
-
         Student s1 = new Student();
         s1.InsertStudent();
 
-
-
-
     }
-
-
-
-
-
-
-
-
-
-
-
 }
-
-
-
-
-
 class Student{
     int id ;
     String name;
     int age;
     String dept;
-
-
 
 
     void  InsertStudent  ()throws Exception{
@@ -63,11 +40,6 @@ class Student{
         System.out.println(" Enter your dept : ");
 
         String dept = sc.nextLine();
-
-
-
-
-
 
         Connection con = DriverManager.getConnection(
                 "jdbc:mysql://localhost:3306/student",
